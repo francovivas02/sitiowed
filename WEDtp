@@ -1,0 +1,880 @@
+body{
+    background: #0F2027;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+.nosotros {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif
+
+   
+}
+.nosotros h1{
+    
+    text-align: justify;
+    font-size: 50px;
+}
+.nosotros p {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif
+    
+}
+.footer{
+    background: grey;
+    padding: 60px 0 30px 0;
+    margin: auto;
+    overflow: hidden;
+    }
+    .contenedor-footer{
+        display: flex;
+        width: 90%;
+        justify-content: space-evenly;
+        margin: auto;
+        padding-bottom: 50px;
+        border-bottom: 1px solid grey;
+    }
+    
+    .content-foo{
+        text-align: center;
+    }
+    .content-foo h4{
+        color: grey;
+        border-bottom: 3px solid gray;
+        padding-bottom: 5px;
+        margin-bottom: 10px;
+    
+    }
+    .titulo-final{
+        text-align: center;
+        font-size: 24px;
+        margin: 20px 0 0 0;
+        color: grey;
+    }
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="acerca-de.css">
+</head>
+<body>
+    <section class="nosotros">   
+    <h1>Acerca de nosotros</h1>
+   
+    <p>
+        "NUESTRO OBJETIVO ES QUE NUESTRO TRABAJO HABLE SOLO"
+    </p>
+        <p>  
+        Somos apacionados por nuestro trabajo, tenemos 25 
+        joyerias al rededor de america, 19 en Argentina, 
+        2 en Mexico y 4 en los Estados Unidos. Empezamos desde el 
+        2002 con nuestra primera joyeria, siendo esta muy aceptada 
+        por ende decidimos expandirnos.
+        Trabajamos muy duro para que el cliente se lleve una pieza unica
+        y que se sienta identificado con ella. 
+        
+    </p>
+    <p>
+        Buscamos la exentricidad, elegancia y delicadesa en cada uno de nuestros 
+        productos. Solemos manejarnos con empleados del mayor nivel creativo, todos 
+        y cada unos de ellos estan totalmente comprometidos en brindar lo mejor de 
+        ellos para encontrar la idea del cliente y volverla realidad 
+
+    </p>
+    <p>
+        Damos las gracias por confiar en nosotros
+    </p>
+    <p>
+        Joyas Intencional Franky
+    </p>
+    </section>
+
+    <footer>
+        <div class="contenedor-footer">
+            <div class="content-foo">
+                <h4>Telefono</h4>
+                <p>+541164074958
+                </p>
+            </div>
+             <div class="content-foo">
+                <h4>Email</h4>
+                <p>joyas.franky@gmail.com
+                </p>
+            </div> 
+            <div class="content-foo">
+                <h4>Ubicacion</h4>
+                <p>Manuel Belzu 2794, Olivos
+                </p>
+            </div>
+        </div> 
+        <h2 class="titulo-final"> &copy;Vivas Desing </h2>
+        
+    </footer>
+
+</body>
+</html>
+body { 
+    background: #232526;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #414345, #232526);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #414345, #232526); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+.compromiso{
+    font-size: 60px;
+    text-align: center;
+}
+
+.compromiso p{
+    font-size: 90px;
+    text-align: center;
+    
+
+}
+.footer{
+    background: grey;
+    padding: 60px 0 30px 0;
+    margin: auto;
+    overflow: hidden;
+    }
+    .contenedor-footer{
+        display: flex;
+        width: 90%;
+        justify-content: space-evenly;
+        margin: auto;
+        padding-bottom: 50px;
+        border-bottom: 1px solid grey;
+    }
+    
+    .content-foo{
+        text-align: center;
+    }
+    .content-foo h4{
+        color: grey;
+        border-bottom: 3px solid gray;
+        padding-bottom: 5px;
+        margin-bottom: 10px;
+    
+    }
+    .titulo-final{
+        text-align: center;
+        font-size: 24px;
+        margin: 20px 0 0 0;
+        color: grey;
+    }
+    
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="compromiso.css">
+</head>
+<body>
+    <div class="compromiso">Compromiso</div>
+   
+     <p>Con mucha pasion y compromiso con nuestro trabajo, nos dedicamos 
+        pura y exclusivamente a generar afinidad con el cliente. Desde 2002, 
+        inovando para poder abrir puertas que nos lleven a lo mas alto.
+     </p>
+     <footer>
+        <div class="contenedor-footer">
+            <div class="content-foo">
+                <h4>Telefono</h4>
+                <p>+541164074958
+                </p>
+            </div>
+             <div class="content-foo">
+                <h4>Email</h4>
+                <p>joyas.franky@gmail.com
+                </p>
+            </div> 
+            <div class="content-foo">
+                <h4>Ubicacion</h4>
+                <p>Manuel Belzu 2794, Olivos
+                </p>
+            </div>
+        </div> 
+        <h2 class="titulo-final"> &copy;Vivas Desing </h2>
+        
+    </footer>
+</body>
+</html>
+body{
+    background: #0F2027;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+    }
+ .contacto h1{
+text-align: center;
+color: white;
+font-size: 50px;
+ }
+ .contacto p{
+    color: rgb(255, 255, 255);
+    border-bottom: 3px solid gray;
+    padding-bottom: 40px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 20px;
+ }
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="contacto.css">
+</head>
+<body>
+    <div class="contacto">
+        <h1> Encontranos</h1>
+
+    <p> Contacto: +541164074958</p>
+    <p>Email: joyas.franky@gmail.com</p>
+    <p> Ubicacion: Manuel Belzu 2794, Olivios </p>
+
+
+
+    </div>
+</body>
+</html>
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.contenedor{
+padding: 60px 0px;
+width: 80%;
+margin: auto;
+max-width: 1000px;
+overflow: hidden;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+}
+
+
+header {
+    width: 100%;
+    height: 600px;
+    background: #bdc3c7;  
+background: -webkit-linear-gradient(to right, hsla(210, 29%, 24%, 0.568), hsla(204, 8%, 76%, 0.555)),  url(./PORTADA3.webp);
+background: linear-gradient(to right, hsla(210, 29%, 24%, 0.568), hsla(204, 8%, 76%, 0.555)), url(./PORTADA3.webp);
+background-attachment: fixed;
+position: relative;
+
+}
+
+nav { 
+    text-align: right;
+    padding: 30px 50 0 0;
+
+}
+
+nav > a{
+    color: rgb(255, 255, 255);
+    font-weight: 300;
+    text-decoration: none;
+    margin-right: 10px;
+
+}
+nav > a:hover{
+
+    text-decoration: underline;
+    }
+
+    header .textos-header{
+        display: flex;
+        height: 430px;
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .textos-header h1{
+        font-size: 50px;
+        color:rgb(255, 255, 255)
+
+    }
+    .textos-header h2{
+        font-size: 30px;
+      font-weight: 300;
+      color: azure;
+        
+    }
+
+.wave{
+    position: absolute;
+    bottom:0;
+    width: 100%;
+}
+.contendor-sobre-nosotros{
+    display: flex;
+    justify-content: space-evenly;
+
+
+}
+.imagen-about-us{
+    width: 48%;
+}
+.sobre-nosotros .contenido-textos{
+    width: 48%;
+}
+
+.contenido-textos h3 {
+    margin-bottom: 15px;
+}
+.contenido-textos h3 span{
+    background: rgb(82, 80, 80);
+    color: white;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    padding: 2px;
+    box-shadow: black;
+    margin-right: 5px;
+
+}
+.contenido-textos p{
+    padding: 0px 0px 30px 15px;
+    font-weight: 300;
+    text-align: justify;
+}
+.portafolio {
+    background-color: rgb(255, 255, 255);
+}
+
+.galeria-port{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.imagen-port {
+    width: 24%;
+    margin-bottom: 10px;
+    overflow: hidden;
+    cursor: pointer;
+    box-shadow: 0px 0px 6px rgba(0, 0, 05);
+}
+.imagen-port > img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+.box{
+
+    width: 200px;
+    height: 200px;
+    margin: 60px;
+    background-color:rgb(82, 80, 80);
+    animation: cambiar-color;
+    text-align: justify;
+    animation-duration: 2s;
+
+}
+.box img{
+ 
+    width: 100%;
+    height: 100%;
+    
+}
+
+@keyframes  cambiar-color {
+
+    0%{
+        transform: translate(0);
+    }
+
+    25%{
+        transform: translate(100%);
+        background-color: blueviolet;
+    }
+    50%{
+        transform: translate(100%,100%);
+        background-color: blue;
+    }
+    75%{
+        transform: translate(0,100%);
+        background-color: blueviolet;
+    }
+    100%{
+        transform: translate(0);
+        background-color: black;
+    }
+}
+
+.cards{
+    display: flex;
+    justify-content: space-evenly;
+}
+.cards 
+.card{
+    background: rgb(82, 80, 80);
+    display: flex;
+    width: 46%;
+    height: 200px;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius:5px;
+    box-shadow: 0,0,6px,0 black;
+} 
+.cards 
+.card img{
+    width: 100%;
+    height: 100px;
+    object-fit: cover;
+    border: 3px solid rgba(0, 0, 0, 0.829);
+    border-radius: 50%;
+    display: block;
+}
+.cards 
+.card > .contenido-texto-card{
+    width: 60%;
+    color: rgb(230, 230, 230);
+}
+.cards 
+.card > .contenido-texto-card p{
+    background-color: antiquewhite;
+    font-weight: 300;
+    padding-top: 5px;
+    
+}
+
+.about-sevice {
+    background: whitesmoke;
+    padding-bottom: 30px;
+}
+.servicio-cont{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.servicio-ind{
+    width: 28%;
+    text-align: center;
+}
+.servicio-ind img{
+    width: 90%;
+}
+.servicio-ind h3{
+    margin: 10px 0;
+}
+.servicio-ind p{
+   font-weight: 300;
+   text-align: justify;
+}
+
+
+.footer{
+    
+background: grey;
+padding: 60px 0 30px 0;
+margin: auto;
+overflow: hidden;
+}
+.contenedor-footer{
+    display: flex;
+    width: 90%;
+    justify-content: space-evenly;
+    margin: auto;
+    padding-bottom: 50px;
+    border-bottom: 1px solid grey;
+}
+
+.content-foo{
+    text-align: center;
+}
+.content-foo h4{
+    color: grey;
+    border-bottom: 3px solid gray;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+
+}
+.titulo-final{
+    text-align: center;
+    font-size: 24px;
+    margin: 20px 0 0 0;
+    color: grey;
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pagina Wed Franco</title>
+    <link rel="stylesheet" href="estilos.css">
+    <link rel="shortcut icon" href="./icono 2.webp" type="image/x-icon">
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="inicio.html">Inicio</a>
+            <a href="acerca-de.html">Acerca de </a>
+            <a href="contacto.html">Contacto</a>
+            <a href="compromiso.html">Compromiso</a>
+
+        </nav>
+        <section class="textos-header">
+            <h1>
+                JOYAS INTERNACIONAL FRANKY
+            </h1>
+            <h2> EL LUGAR DE LOS ARTISTAS
+
+            </h2>
+        </section>
+
+        <div class="wave" style="height: 150px; overflow: hidden;"
+         ><svg viewBox="0 0 500 150" 
+         preserveAspectRatio="none" 
+         style="height: 100%; width: 100%;"><path 
+         d="M0.00,49.98 C198.93,111.83 349.20,-49.98 500.00,49.98 
+         L500.00,150.00 L0.00,150.00 Z" style="stroke: none; fill:
+          rgb(255, 255, 255);"></path></svg></div>
+
+    </header>
+
+     <main> 
+        <section class="contendor sobre-nosotros">
+            <h2 class="titulo">Nuestro producto</h2>
+                <div class="contendor-sobre-nosotros">
+                    <img src="./CUBANA.jpg" alt="" class="imagen-about-us">
+
+                <div class="contenido-textos">
+                    <h3><span>1 </span>Los mejores productos</h3>
+                        <p>Todos y cada uno de nuestros productos cuentan
+                            con 
+                            la totalidad de metal precioso, desde oro 18k
+                            hasta diamante de esmeralda.
+                        </p>
+                            <h3><span>2 </span>Nuestra mentalidad</h3>
+                        <p> Buscamos que la persona que confie en nosotros 
+                            se lleve una pieza unica y personalizada,
+                            buscamos genernar emociones y sentido
+                             pertencia en nuestro cliente.
+                        </p>
+                </div>
+          </div>
+         </section>
+     
+
+        <section class="portafolio">
+            <div class="contenedor">
+                <h2 class="titulo">STOCK DISPONIBLE</h2>
+                 <div class="galeria-port">
+                    
+                  <div class="imagen-port"> 
+                    <img src="./RELOJ 1.webp" alt="">
+
+                 <div class="hover-galeria">
+            
+                   <p>Nuestro Trabajo</p>
+                 </div>
+                </div>
+                <div class="imagen-port"> 
+                    <img src="cubana 4.webp" alt="">
+                    <div class="hover-galeria">
+    
+                    <p>Nuestro Trabajo</p>
+                </div>
+             </div>
+             <div class="imagen-port"> 
+                <img src="./reloj 3.jpg" alt="">
+                <div class="hover-galeria">
+             
+                    <p>Nuestro Trabajo</p>
+                </div>
+             </div>
+             <div class="imagen-port"> 
+                <img src="anillos.jpg" alt="">
+                <div class="hover-galeria">
+        
+                    <p>Nuestro Trabajo</p>
+                </div>
+             </div>
+             <div class="imagen-port"> 
+                <img src="./peruano.jpg" alt="">
+                <div class="hover-galeria">
+    
+                    <p>Nuestro Trabajo</p>
+                </div>
+             </div>
+             <div class="imagen-port"> 
+                <img src="./12mm-diamond-cuban-bracelet-18k-gold-meta-vermeil-bracelets-6-llc-jewelry-gesture-wrist-907_5000x_651c9399-3225-4509-a25b-f2f64ce5780c_600x.webp" alt="">
+                <div class="hover-galeria">
+                   
+                    <p>Nuestro Trabajo</p>
+                </div>
+             </div>
+             <div class="imagen-port"> 
+                <img src="./grillz 2.jpg" alt="">
+                <div class="hover-galeria">
+       
+                    <p>Nuestro Trabajo</p>
+                </div>
+             </div>
+             <div class="imagen-port"> 
+                <img src="./lilpump.jpg" alt="">
+
+                <div class="hover-galeria">
+                  
+                    <p>Nuestro Trabajo</p>
+                </div>
+             </div>
+            </div>
+        </div>
+     </section>
+        <section class="clientes contenedor">
+            <h2 class="titulo">Que dicen nuestros clientes</h2>
+            <div class="cards">
+                <div class="card">
+                    <img src="./ñengo 3.jpg" alt="">
+                    <div class="contenido-text-card">
+                        <h4>ÑENGO FLOW</h4>
+                        <p>"Las cadena mas duras las tiene
+                            Franky, siempre que vengo a 
+                            Argentina me llevo muchas"</p>
+                    </div>
+
+                </div>
+                <div class="card">
+                    <img src="duki2.jpg" alt="">
+                    <div class="contenido-text-card">
+                        <h4>DUKI</h4>
+                        <p>"Toda mi cerrera use joyas de 
+                            Franky y hasta el dia de 
+                            hoy lo sigo haciendo"</p>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+      <div class="box">
+        <img src="./envio gratis.jpg" alt="">
+        
+      </div>
+     </main>
+
+        <footer>
+            <div class="contenedor-footer">
+                <div class="content-foo">
+                    <h4>Telefono</h4>
+                    <p>+541164074958
+                    </p>
+                </div>
+                 <div class="content-foo">
+                    <h4>Email</h4>
+                    <p>joyas.franky@gmail.com
+                    </p>
+                </div> 
+                <div class="content-foo">
+                    <h4>Ubicacion</h4>
+                    <p>Manuel Belzu 2794, Olivos
+                    </p>
+                </div>
+            </div> 
+            <h2 class="titulo-final"> &copy;Vivas Desing </h2>
+            
+        </footer>
+</body> 
+</html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pagina Wed Franco</title>
+    <link rel="stylesheet" href="estilos.css">
+    <link rel="shortcut icon" href="./icono 2.webp" type="image/x-icon">
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="inicio.html">Inicio</a>
+            <a href="acerca-de.html">Acerca de </a>
+            <a href="contacto.html">Contacto</a>
+
+        </nav>
+        <section class="textos-header">
+            <h1>
+                JOYAS INTERNACIONAL FRANKY
+            </h1>
+            <h2> EL LUGAR DE LOS ARTISTAS
+
+            </h2>
+        </section>
+
+        <div class="wave" style="height: 150px; overflow: hidden;"
+         ><svg viewBox="0 0 500 150" 
+         preserveAspectRatio="none" 
+         style="height: 100%; width: 100%;"><path 
+         d="M0.00,49.98 C198.93,111.83 349.20,-49.98 500.00,49.98 
+         L500.00,150.00 L0.00,150.00 Z" style="stroke: none; fill:
+          rgb(255, 255, 255);"></path></svg></div>
+
+    </header>
+
+     <main> 
+        <section class="contendor sobre-nosotros">
+            <h2 class="titulo">Nuestro producto</h2>
+                <div class="contendor-sobre-nosotros">
+                    <img src="./CUBANA.jpg" alt="" class="imagen-about-us">
+
+                <div class="contenido-textos">
+                    <h3><span>1 </span>Los mejores productos</h3>
+                        <p>Todos y cada uno de nuestros productos cuentan
+                            con 
+                            la totalidad de metal precioso, desde oro 18k
+                            hasta diamante de esmeralda.
+                        </p>
+                            <h3><span>2 </span>Nuestra mentalidad</h3>
+                        <p> Buscamos que la persona que confie en nosotros 
+                            se lleve una pieza unica y personalizada,
+                            buscamos genernar emociones y sentido
+                             pertencia en nuestro cliente.
+                        </p>
+                </div>
+          </div>
+         </section>
+     
+
+        <section class="portafolio">
+            <div class="contenedor">
+                <h2 class="titulo">STOCK DISPONIBLE</h2>
+                 <div class="galeria-port">
+                    
+                  <div class="imagen-port"> 
+                    <img src="./RELOJ 1.webp" alt="">
+
+                 <div class="hover-galeria">
+            
+                   <p>Nuestro Trabajo</p>
+                 </div>
+                </div>
+                <div class="imagen-port"> 
+                    <img src="cubana 4.webp" alt="">
+                    <div class="hover-galeria">
+    
+                    <p>Nuestro Trabajo</p>
+                </div>
+             </div>
+             <div class="imagen-port"> 
+                <img src="./reloj 3.jpg" alt="">
+                <div class="hover-galeria">
+             
+                    <p>Nuestro Trabajo</p>
+                </div>
+             </div>
+             <div class="imagen-port"> 
+                <img src="anillos.jpg" alt="">
+                <div class="hover-galeria">
+        
+                    <p>Nuestro Trabajo</p>
+                </div>
+             </div>
+             <div class="imagen-port"> 
+                <img src="./peruano.jpg" alt="">
+                <div class="hover-galeria">
+    
+                    <p>Nuestro Trabajo</p>
+                </div>
+             </div>
+             <div class="imagen-port"> 
+                <img src="./12mm-diamond-cuban-bracelet-18k-gold-meta-vermeil-bracelets-6-llc-jewelry-gesture-wrist-907_5000x_651c9399-3225-4509-a25b-f2f64ce5780c_600x.webp" alt="">
+                <div class="hover-galeria">
+                   
+                    <p>Nuestro Trabajo</p>
+                </div>
+             </div>
+             <div class="imagen-port"> 
+                <img src="./grillz 2.jpg" alt="">
+                <div class="hover-galeria">
+       
+                    <p>Nuestro Trabajo</p>
+                </div>
+             </div>
+             <div class="imagen-port"> 
+                <img src="./lilpump.jpg" alt="">
+
+                <div class="hover-galeria">
+                  
+                    <p>Nuestro Trabajo</p>
+                </div>
+             </div>
+            </div>
+        </div>
+     </section>
+        <section class="clientes contenedor">
+            <h2 class="titulo">Que dicen nuestros clientes</h2>
+            <div class="cards">
+                <div class="card">
+                    <img src="./ñengo 3.jpg" alt="">
+                    <div class="contenido-text-card">
+                        <h4>ÑENGO FLOW</h4>
+                        <p>"Las cadena mas duras las tiene
+                            Franky, siempre que vengo a 
+                            Argentina me llevo muchas"</p>
+                    </div>
+
+                </div>
+                <div class="card">
+                    <img src="duki2.jpg" alt="">
+                    <div class="contenido-text-card">
+                        <h4>DUKI</h4>
+                        <p>"Toda mi cerrera use joyas de 
+                            Franky y hasta el dia de 
+                            hoy lo sigo haciendo"</p>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+      <div class="box">
+        <img src="./envio gratis.jpg" alt="">
+        
+      </div>
+     </main>
+
+        <footer>
+            <div class="contenedor-footer">
+                <div class="content-foo">
+                    <h4>Telefono</h4>
+                    <p>+541164074958
+                    </p>
+                </div>
+                 <div class="content-foo">
+                    <h4>Email</h4>
+                    <p>joyas.franky@gmail.com
+                    </p>
+                </div> 
+                <div class="content-foo">
+                    <h4>Ubicacion</h4>
+                    <p>Manuel Sarmiento 4495, Olivos
+                    </p>
+                </div>
+            </div> 
+            <h2 class="titulo-final"> &copy;Vivas Desing </h2>
+            
+        </footer>
+</body> 
+</html>
